@@ -12,5 +12,5 @@ Procedure:
 6. Calculate maximum number of gene names to be plotted for each chromosome based on plot RCircos plot parameters.
 7. Draw heatmap for one data track.
 
-Result:
+Result Interpretation:
 Ideogram plot shows the differentially expressed upregulated genes expression patterns and the distribution of the chromosomal location where they are located, with the outer circle representing the chromosome and the location of the gene in the chromosome, and the heatmap in the inner circle representing the expression of all upregulated differentially expressed genes (DEGs)
